@@ -2,6 +2,8 @@
 
 This is a minimal [Hugo](https://gohugo.io) project which demonstrates the use of the [standard Sass package](https://github.com/sass/sass) with Hugo for compatibility with [Dart Sass](https://sass-lang.com/dart-sass), rather than the [deprecated LibSass implementation](https://sass-lang.com/blog/libsass-is-deprecated) which is built into Hugo.
 
+Demo of this repo: https://hugo-npm-sass.vercel.app/
+
 For more information, see https://www.brycewray.com/posts/2022/03/using-dart-sass-hugo/.
 
 ## Instructions
