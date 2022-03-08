@@ -1,0 +1,14 @@
+/public
+/resources/_gen/
+node_modules
+.env
+*.env
+.env.*
+/_cache
+.npmrc
+
+.hugo_build.lock
+
+/assets/css
+/assets/css/*.css
+
