@@ -1,6 +1,6 @@
 {
   "name": "hugo-npm-sass",
-  "description": "Demo of capabilities described in https://www.brycewray.co,/posts/2022/03/using-dart-sass-hugo/",
+  "description": "Demo of capabilities described in https://www.brycewray.com/posts/2022/03/using-dart-sass-hugo/",
   "scripts": {
     "clean": "rimraf public",
     "devsass": "sass --no-source-map assets/scss/index.scss assets/css/index.css",
