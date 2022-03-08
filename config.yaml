@@ -1,0 +1,3 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Demo site to show npm sass on Hugo
