@@ -9,6 +9,11 @@ node_modules
 
 .hugo_build.lock
 
+start.sh
+build.sh
+testbuild.sh
+push.sh
+
 /assets/css
 /assets/css/*.css
 
