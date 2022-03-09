@@ -20,11 +20,21 @@ h1 {
   font-size: 3em;
 }
 
+a {
+  color: blue;
+  text-decoration: none;
+  border-bottom: 1px solid blue;
+  @media screen and (prefers-color-scheme: dark) {
+    color: cyan;
+    border-bottom: 1px solid cyan;
+  }
+}
+
 p {
   font-size: 2em;
   color: rebeccapurple;
   @media screen and (prefers-color-scheme: dark) {
-    color: orange;
+    color: yellow;
   }
 }
 
